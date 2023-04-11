@@ -1,3 +1,0 @@
-for the Project.zip we excluded FreeTTS (freetts-1.2.2-bin) and Apache POI libraries(poi-5.0.0)
-due to the file size restrictions of turnin
-(the limit of turnin in 70MB and the project was about 78.5MB)
